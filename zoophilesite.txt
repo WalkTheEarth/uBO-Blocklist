@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202512041700
+! Version: 202512041704
 ! Title: ZoophileSites
 ! Last modified: 12/04/2025
 ! 
@@ -14,3 +14,5 @@ zoo.wtf
 *.zoo.wtf
 *.zdu.se
 zdu.se
+zoolandia.org
+*.zoolandia.org
