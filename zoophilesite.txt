@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Version: 202512041700
+! Title: ZoophileSites
+! Last modified: 12/04/2025
+! 
+! Please report any unblocked Zoophile sites
+! in the github issues.
+! 
+! Homepage: https://github.com/WalkTheEarth/uBO-Blocklist/tree/main
+! Licence: The Unlicense
+! GitHub issues: https://github.com/WalkTheEarth/uBO-Blocklist/issues
+! GitHub pull requests: https://github.com/WalkTheEarth/uBO-Blocklist/pulls
+zoo.wtf
+*.zoo.wtf
+*.zdu.se
+zdu.se
